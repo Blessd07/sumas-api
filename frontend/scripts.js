@@ -1,5 +1,5 @@
 // Configuración
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://sumas-api-backend.onrender.com/';
 
 // Elementos
 const num1Input = document.getElementById('num1');
